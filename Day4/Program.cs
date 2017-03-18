@@ -65,7 +65,6 @@ public static class Program
             ret += diff(Current, i);
         }
         return ret;
-
     }
 
     public static int diff(int xa, int ya)
