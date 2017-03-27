@@ -24,5 +24,5 @@ https://www.hackerrank.com/contests/w30/challenges/range-modular-queries
 ## Day6 - A Graph Problem (14.55/80 -insufficient)
 https://www.hackerrank.com/contests/w30/challenges/a-graph-problem
 
-## Day7 - Substring Queries ()
--not announced-
+## Day7 - Substring Queries (0/90 -not attempted)
+https://www.hackerrank.com/contests/w30/challenges/substring-queries
