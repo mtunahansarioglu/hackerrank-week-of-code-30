@@ -1,10 +1,12 @@
 # Week Of Code 30 - (Hackerrank)
 
 This repo contains my answers on Week Of Code 30. 
+Result Page: https://www.hackerrank.com/results/w30/rayrayroy
 
 # Solutions
 
-Solutions are written in C#. All answers are stored as different projects on the same solution.
+Solutions are written in C#.
+All answers are stored as different projects on the same solution.
 
 ## Day1 - Candy Replenishing Robot (10/10)
 https://www.hackerrank.com/contests/w30/challenges/candy-replenishing-robot
